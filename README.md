@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building projects in Full Stack Web Development<br><br>🤝 Open to collaborating on innovative web-based projects<br><br>🫶 Seeking guidance in scalable backend architecture<br><br>🌱 Learning modern development workflows<br><br>💬 Ask me about Frontend Development, C Programming, and GitHub<br><br>⚡ Aspiring Full Stack Developer from Siliguri Institute of Technology
+🔭 Currently building projects in Full Stack Web Development<br><br>🤝 Open to collaborating on innovative web-based projects<br><br>🫶 Seeking guidance in scalable backend architecture<br><br>🌱 Learning modern development workflows<br><br>💬 Ask me about Frontend Development, and GitHub<br><br>⚡ Aspiring Full Stack Developer from Siliguri Institute of Technology
 
 
 ## 🌐 Socials:
